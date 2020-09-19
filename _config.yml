@@ -39,7 +39,7 @@ timezone:  America/Lima
 
 include:
   - _pages
-  
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -81,7 +81,7 @@ author:
       url: "https://www.linkedin.com/in/mauricioalvarezq/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:maalq0105@gmail.com"
+      url: "mailto:malvape1595@hotmail.com"
 
 
 #    - label: "Instagram"
@@ -104,7 +104,7 @@ footer:
       url: "https://www.linkedin.com/in/mauricioalvarezq/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:maalq0105@gmail.com"
+      url: "mailto:malvape1595@hotmail.com"
 defaults:
   # _posts
   - scope:
