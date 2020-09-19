@@ -26,6 +26,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
+repository: Malvape/myweb
 
 # Build settings
 markdown: kramdown
