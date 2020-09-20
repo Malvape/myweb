@@ -1,8 +1,10 @@
 ---
 permalink: /about/
-title: "About"
+title: "Acerca de mí"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Mi nombre es Mauricio Álvarez Quispe, soy un profesional egresado de la carrera de ingeniería industrial y de sistemas de la Universidad de Piura, con 2 años de experiencia en el área de planeamiento y control de gestión (FP&A).
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+La experiencia profesional que he tenido me ha permitido conocer herramientas de recopilación, consultas y visualización de información (SAP, BPC, Power BI, Power Query). Me encuentro interesado en posiciones que me permitan seguir desarrollándome en este ámbito (planeamiento, Bussines Inteligence, inteligencia comercial, etc.) dado que soy particularmente hábil en estas y me resultan interesantes.
+
+Actualmente me encuentro estudiando para rendir los exámenes FRM (financial risk management) en Noviembre, porque me interesa también el área de riesgos (utilizan muchas herramientas interesantes para su análisis y bastante estadística). También estoy estudiando herramientas que no he tenido que utilizar profesionalmente, pero suelen ser requisitos en las áreas que me interesan (como Pyhthon y SQL).
