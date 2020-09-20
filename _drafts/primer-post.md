@@ -5,11 +5,8 @@ categories:
   - blog
 tags:
   - Jekyll
-
-
 toc: true
 toc_label: "En ésta página"
-
 ---
 
 Hola este es mi primer post.
