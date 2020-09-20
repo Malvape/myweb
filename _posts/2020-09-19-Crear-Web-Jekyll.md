@@ -42,7 +42,7 @@ En la página de Jekyll están las instrucciones para la correcta instalación d
 Github ofrece unos templates súper básicos para hacer una pagina web con Jekyll en Github Pages.
 
 <figure>
-	<a href="https://pages.github.com/themes/"><img src="/assets/images/Jekyll-Themes.jpg"></a>
+	<a href="https://pages.github.com/themes/"><img src="/myweb/assets/images/Jekyll-Themes.jpg"></a>
 	<figcaption><a href="https://pages.github.com/themes/" title="Temas default de Github Pages">
   </a>.
   </figcaption>
