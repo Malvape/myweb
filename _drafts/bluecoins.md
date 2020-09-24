@@ -1,0 +1,141 @@
+---
+title: "Template"
+date: 2019-04-18T15:34:30-04:00
+categories:
+  - blog
+tags:
+  - Template
+toc: true
+toc_label: "En ésta página"
+related: true
+---
+
+
+
+Este post es un template. [^keyword]   
+
+<!--more-->
+
+- [https://github.com/yxtay/python-project-template][python-project-template]
+
+{% include video id="1eYPa6XVIXM" provider="youtube" %}
+
+
+
+- [Embedded link: place text in brackets, URL in parentheses](http://google.com)
+
+The repository has been configured as a [project template][github-template]
+which you may use to generate new python project repositories.
+
+
+
+![Use this temp](/assets/images/bio-photo.PNG)
+
+
+{% include figure image_path="/assets/images/Capture.PNG" alt="sample image" caption="sample caption" %}{: .align-right}
+This sample text demonstrates the wrap-around feature with aligned images. This sample text demonstrates the wrap-around feature with aligned images. This sample text demonstrates the wrap-around feature with aligned images. This sample text demonstrates the wrap-around feature with aligned images. This sample text demonstrates the wrap-around feature with aligned images.
+
+esta vaina es como poner comillas  `cita textual`, esto es negrita **This is strong**., esto es enfatizado *This is emphasized*.
+
+esto es un blockquote
+> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
+
+| Header1 | Header2 | Header3 |
+|:--------|:-------:|--------:|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|----
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|=====
+| Foot1   | Foot2   | Foot3
+{: rules="groups"}
+
+## Notices
+
+**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
+{: .notice}
+
+## Buttons
+
+Make any link standout more when applying the `.btn` class.
+
+```html
+<a href="#" class="btn btn--success">Success Button</a>
+```
+
+<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
+<div markdown="0"><a href="#" class="btn btn--success">Success Button</a></div>
+<div markdown="0"><a href="#" class="btn btn--warning">Warning Button</a></div>
+<div markdown="0"><a href="#" class="btn btn--danger">Danger Button</a></div>
+<div markdown="0"><a href="#" class="btn btn--info">Info Button</a></div>
+
+
+
+## Subtitulo
+
+### pip-tools
+
+  - [pip][pip]
+
+
+<iframe src="https://jackdougherty.youcanbook.me/" width="100%" height="600px"></iframe>
+
+{% raw %}
+```markdown
+{% include video id="3sK7-g0otGM" provider="youtube" %}
+```
+{% endraw %}
+
+<figure>
+	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg"></a>
+	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
+</figure>
+
+<figure class="half">
+	<a href="http://placehold.it/1200x600.JPG"><img src="http://placehold.it/600x300.jpg"></a>
+	<a href="http://placehold.it/1200x600.jpeg"><img src="http://placehold.it/600x300.jpg"></a>
+	<figcaption>Two images.</figcaption>
+</figure>
+
+Startup
+:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
+
+
+## Notices
+
+**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice}` class.
+{: .notice}
+
+**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice--primary}` class.
+{: .notice--primary}
+
+**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice--info}` class.
+{: .notice--info}
+
+**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice--warning}` class.
+{: .notice--warning}
+
+**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice--success}` class.
+{: .notice--success}
+
+**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice--danger}` class.
+{: .notice--danger}
+
+The abbreviation CSS stands for "Cascading Style Sheets".
+*[CSS]: Cascading Style Sheets
+
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.PNG" alt="">
+  <figcaption>Feels good to be right all the time.</figcaption>
+</figure>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">🎨 Finally got around to adding all my <a href="https://twitter.com/procreateapp">@procreateapp</a> creations with time lapse videos <a href="https://t.co/1nNbkefC3L">https://t.co/1nNbkefC3L</a> <a href="https://t.co/gcNLJoJ0Gn">pic.twitter.com/gcNLJoJ0Gn</a></p>&mdash; Michael Rose (@mmistakes) <a href="https://twitter.com/mmistakes/status/662678050795094016">November 6, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+This post tests Twitter Embeds.
+
+[^keyword]: esto es un pie de pagina.
+
+[python-project-template]: https://github.com/yxtay/python-project-template
+[pip]: https://pip.pypa.io/en/stable

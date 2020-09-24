@@ -31,7 +31,7 @@ Es más sencillo hostearlas y por eso mismo es que se pueden encontrar algunas e
 
 ## jekyll
 
-### instalación
+### Instalación
 
 En la página de Jekyll están las instrucciones para la correcta instalación de jekyll.
 
