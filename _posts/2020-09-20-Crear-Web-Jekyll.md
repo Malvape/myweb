@@ -7,7 +7,7 @@ tags:
   - GitHub
   - Remote Themes
 toc: true
-toc_label: "En ésta página"
+toc_label: "En esta página"
 related: true
 ---
 
