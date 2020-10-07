@@ -21,7 +21,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: https://malvape.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl:  /myweb # the subpath of your site, e.g. "/blog"
 locale: "es-ES"
-repository: Malvape/myweb
+
+# No GitHub API authentication could be found. Some fields may be missing or have incorrect data. esto se soluciona
+# descargando un permiso y señalandolo en configuration https://www.youtube.com/watch?v=1bQqkyvH5ps
 
 twitter_username: MauricioALQ
 github_username: Malvape
