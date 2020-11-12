@@ -58,10 +58,10 @@ aca dejo un link: [Como desbloquear el puerto 1433][1433]
 
 ## Ventajas de tener una base de datos en la nube
 
--Ahorro en Costos (es relativo pero a mediana y grande escala es rentable)
--Seguridad (La seguridad se terceriza a una empresa enorme)
--Flexibilidad (la capacidad de la base puede cambiar facilmente)
--Facilita la colaboración (No se conecta por cables)
+- Ahorro en Costos (es relativo pero a mediana y grande escala es rentable)
+- Seguridad (La seguridad se terceriza a una empresa enorme)
+- Flexibilidad (la capacidad de la base puede cambiar facilmente)
+- Facilita la colaboración (No se conecta por cables)
 
 Estas son solo algunas, para una lista mas completa:
 
