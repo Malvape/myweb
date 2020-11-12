@@ -175,5 +175,5 @@ Resultado:
 
 [jmcastagnetto]: https://github.com/jmcastagnetto/covid-19-peru-data
 [fallecidos]:{{ site.url }}{{ site.baseurl }}/assets/downloads/covid-19-peru-fallecimientos.csv
-[hospitalizados]:{{ site.url }}{{ site.baseurl }}/assets/downloads/covid-19-peru-hospitalizados.csv
+[hospitalizados]:{{ site.url }}{{ site.baseurl }}/assets/downloads/covid-19-peru-detalle-hospitalizados.csv
 [general]:{{ site.url }}{{ site.baseurl }}/assets/downloads/covid-19-peru-data.csv
