@@ -39,7 +39,8 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone:  America/Lima
 
-
+og_image: "/assets/images/default.jpg"
+teaser: "/assets/images/default.jpg"
 include:
   - _pages
 
@@ -121,8 +122,7 @@ defaults:
       comments: true
       share: true
       related: true
-      teaser: "/assets/images/default.jpg"
-      og_image: "/assets/images/default.jpg"
+
 
   # _pages
   - scope:
