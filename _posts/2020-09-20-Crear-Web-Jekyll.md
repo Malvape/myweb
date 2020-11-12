@@ -9,6 +9,9 @@ tags:
 toc: true
 toc_label: "En esta página"
 related: true
+header:
+  teaser: /assets/images/jekyll.png
+
 ---
 
 
