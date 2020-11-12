@@ -121,6 +121,8 @@ defaults:
       comments: true
       share: true
       related: true
+      teaser: "/assets/images/default.jpg"
+      og_image: "/assets/images/default.jpg"
 
   # _pages
   - scope:
@@ -129,8 +131,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-teaser: "/assets/images/default.jpg"
-og_image: "/assets/images/default.jpg"
+
+
+
 
 category_archive:
   type: liquid
