@@ -11,7 +11,7 @@ toc_label: "En esta página"
 related: true
 header:
   teaser: /assets/images/code.png
-  image: /assets/images/code.png
+
 ---
 
 Hace unos días rendí un examen de SQL en SQL Server y algunas cosas me resultaron interesantes.

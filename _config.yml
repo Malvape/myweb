@@ -41,6 +41,9 @@ timezone:  America/Lima
 
 og_image: "/assets/images/default.jpg"
 teaser: "/assets/images/default.jpg"
+twitter:
+  image: /assets/images/default.jpg 
+
 include:
   - _pages
 
