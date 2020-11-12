@@ -1,6 +1,6 @@
 ---
 title: "Como implementar un remote theme en Jekyll"
-date: 2019-09-20T16:00:00-05:00
+date: 2020-09-20T16:00:00-05:00
 categories:
   - Jekyll
 tags:
