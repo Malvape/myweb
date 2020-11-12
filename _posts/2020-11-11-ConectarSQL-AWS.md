@@ -11,6 +11,7 @@ toc_label: "En esta página"
 related: true
 header:
   teaser: /assets/images/aws.png
+  image: /assets/images/aws.png
 ---
 
 Tener tu base de datos en un servicio en la nube tiene sus ventajas, aca muestro como conectar
