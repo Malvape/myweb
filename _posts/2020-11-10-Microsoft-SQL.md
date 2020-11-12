@@ -1,11 +1,11 @@
 ---
-title: "Microsoft SQL Server"
+title: "Ejercicios SQL Server"
 date: 2020-11-10T15:21:30-05:00
 categories:
   - SQL
 tags:
   - MicrosoftSQL
-  - AWS
+  - Covid-19
 toc: true
 toc_label: "En esta página"
 related: true
