@@ -34,9 +34,9 @@ Luego dirigirse a la Opcion Databases
 Una vez creada la base de datos, buscar la opcion **Connectivity & security** y
 fijarse en estos datos:
 
-   -Endpoint
-   -port (casi siempre es 1433)
-   -Public accessibility (viene por defecto en **NO**, pero se debe cambiar a **Yes**)
+   - Endpoint
+   - port (casi siempre es 1433)
+   - Public accessibility (viene por defecto en **NO**, pero se debe cambiar a **Yes**)
 
 Debe quedar algo asi:
 
@@ -45,13 +45,13 @@ Debe quedar algo asi:
 ## conectarlo con SQL Server
 Luego Entra a **Microsoft SQL Server**. Las opciones de la ventana inicial deben ser:
 
--Authentication: SQL Server Authentication
--Server name: (aca debe ir el endpoint seguido de **,1433**)
+- Authentication: SQL Server Authentication
+- Server name: (aca debe ir el endpoint seguido de **,1433**)
 
     Ejemplo:  database-1.#############.us-west-2.rds.amazonaws.com,1433
     {: .notice}
 
- -El usuario y contraseña que utilizó para crear la base de datos.
+ - El usuario y contraseña que utilizó para crear la base de datos.
 
 Finalmente desbloquear el puerto 1433 en las opciones de Firewall.
 aca dejo un link: [Como desbloquear el puerto 1433][1433]
