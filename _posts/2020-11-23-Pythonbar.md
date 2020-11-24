@@ -146,6 +146,7 @@ plt.legend(bbox_to_anchor=(0, 1, 1, 0), loc="lower left")
 	<a href="/myweb/assets/images/Golpistas/5ta.png"><img src="/myweb/assets/images/Golpistas/5ta.png"></a>
 	</figure>
 
+[Este](https://colab.research.google.com/drive/14BVmGVGbyjbuncduR6_r2w9bZ84cuUVs) es el link para poder ver mi código en colab.
 
 
 
