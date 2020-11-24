@@ -16,13 +16,13 @@ header:
 ---
 
 
-Hace una semanaHace una semana se vacó al presidente del Perú, cosa que no agradó a nadie, especialmente a los jóvenes. En respuesta a esto se dio un esfuerzo para que, utilizando herramientas de programación, visualización de información y diseño  se pueda aportar a la situación.
+Hace una semana se vacó al presidente del Perú, cosa que no agradó a nadie, especialmente a los jóvenes. En respuesta a esto se dió un esfuerzo para que, utilizando herramientas de programación, visualización de información y diseño  se pueda aportar a la situación.
 
 <!--more-->
 
 ## De qué se trata?
 
-Se hizo viral la iniciativa de [éste](https://twitter.com/RoTorresT) joven `twitero`, que sugería hacer una página web con información publica extraída de los canales del estado (Principalmente web), consolidarla y presentarla en una página web, de manera que se pueda entender fácilmente que sucedió y quienes son los responsables.
+Se hizo viral la iniciativa de [éste](https://twitter.com/RoTorresT) joven `twitero`, que sugería hacer una página web con información pública extraída de los canales del estado (Principalmente web), consolidarla y presentarla en una página web, de manera que se pueda entender fácilmente que sucedió y quienes son los responsables.
 
 Es asi que nace:
 
@@ -32,7 +32,7 @@ Es asi que nace:
 
 ## Quienes colaboran?
 
-Se Hizo un grupo de trabajo en [Slack](https://slack.com/intl/es-pe/), cosa que ahí se pueden comunicar más fácilmente quienes quieran apoyar, PERO también se hizo un repositorio en GitHub (Plataforma que utilizo para mantener esta página web) que es una plataforma diseñada para facilitar el trabajo colaborativo mediante Git. Este es el repositorio:
+Se hizo un grupo de trabajo en [Slack](https://slack.com/intl/es-pe/), cosa que ahí se pueden comunicar más fácilmente quienes quieran apoyar, PERO también se hizo un repositorio en GitHub (Plataforma que utilizo para mantener esta página web) que es una plataforma diseñada para facilitar el trabajo colaborativo mediante Git. Este es el repositorio:
 
 - [Repositorio en Github][Git]
 
@@ -125,7 +125,7 @@ ConDelito.head(20)
 ```
 ![Golpistas](/myweb/assets/images/Golpistas/3ra.png)
 
-- Habiendo hecho esto, ya solo quedaba hacer la visualización.
+- Por último, ya solo quedaba hacer la visualización.
 
 ``` python
 plt.rcParams['figure.figsize'] = (30,6)
