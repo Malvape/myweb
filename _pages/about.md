@@ -3,7 +3,9 @@ permalink: /about/
 title: "Acerca de mí"
 ---
 
-[CV-Mauricio Alvarez][CV]
+
+<a href="/myweb/assets/downloads/Cv - Mauricio Alvarez.pdf" class="btn btn--info btn--large">Mi CV</a>
+
 
 Mi nombre es Mauricio Álvarez Quispe, soy un profesional egresado de la carrera de ingeniería industrial y de sistemas de la [Universidad de Piura][Udep], con 2 años de experiencia en el área de planeamiento y control de gestión (FP&A) en la empresa [Inchcape Latam][Inchcape].
 
