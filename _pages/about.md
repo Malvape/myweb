@@ -11,7 +11,7 @@ Mi nombre es Mauricio Álvarez Quispe, soy un profesional egresado de la carrera
 
 La experiencia profesional que he tenido me ha permitido conocer herramientas de recopilación, consultas y visualización de información (**SAP, BPC, Power BI, Power Query**). Me encuentro interesado en posiciones que me permitan seguir desarrollándome en este ámbito (planeamiento, Bussines Inteligence, inteligencia comercial, etc.) dado que soy particularmente hábil en estas y me resultan interesantes.
 
-Actualmente me encuentro estudiando para rendir los exámenes [FRM][FRM] (financial risk management) en Noviembre, porque me interesa también el área de riesgos (utilizan muchas herramientas interesantes para su análisis y bastante estadística). También estoy estudiando herramientas que no he tenido que utilizar profesionalmente, pero suelen ser requisitos en las áreas que me interesan (como **Pyhthon y SQL**).
+Actualmente me encuentro estudiando para rendir los exámenes [FRM][FRM] (financial risk management) en Enero 2021, porque me interesa también el área de riesgos (utilizan muchas herramientas interesantes para su análisis y bastante estadística). También estoy estudiando herramientas que no he tenido que utilizar profesionalmente, pero suelen ser requisitos en las áreas que me interesan (como **Pyhthon, R y SQL**).
 
 
 
