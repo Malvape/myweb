@@ -126,7 +126,7 @@ defaults:
       related: true
 
 # SEO Related
-google_site_verification : google-site-verification=1jo-tJbPMyczon7YbmdKRIjsoz_jYymA9Lqz3a4yAGU
+google_site_verification : "google-site-verification=1jo-tJbPMyczon7YbmdKRIjsoz_jYymA9Lqz3a4yAGU"
 
   # _pages
   - scope:
