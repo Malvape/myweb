@@ -135,7 +135,15 @@ defaults:
       author_profile: true
 
 
+  # Analytics
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-611CJE92B9"
+    anonymize_ip: false # default
+
+  # Necesario
 
 category_archive:
   type: liquid
