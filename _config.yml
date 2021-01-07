@@ -125,6 +125,8 @@ defaults:
       share: true
       related: true
 
+# SEO Related
+#google_site_verification :
 
   # _pages
   - scope:
@@ -134,14 +136,12 @@ defaults:
       layout: single
       author_profile: true
 
-
-  # Analytics
-
+# Analytics
 analytics:
-  provider: "google-gtag"
+  provider               : "google-gtag"
   google:
-    tracking_id: "G-611CJE92B9"
-    anonymize_ip: false # default
+    tracking_id          :
+    anonymize_ip         : G-611CJE92B9
 
   # Necesario
 
