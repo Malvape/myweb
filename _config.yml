@@ -140,8 +140,8 @@ defaults:
 analytics:
   provider               : "google-gtag"
   google:
-    tracking_id          :
-    anonymize_ip         : G-611CJE92B9
+    tracking_id          : G-611CJE92B9
+    anonymize_ip         :
 
   # Necesario
 
